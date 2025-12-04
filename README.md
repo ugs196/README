@@ -23,5 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ugs196&show_icons=true&locale=en" alt="ugs196" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ugs196&" alt="ugs196" /></p>
-![Github stats](https://github-readme-stats.vercel.app/api?username=UGS196)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ugs196)
 
